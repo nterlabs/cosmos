@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-Please report all security concerns to security@nterlabs.io
+Please report all security concerns to security@nterlabs.com
